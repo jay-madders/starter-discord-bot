@@ -41,9 +41,6 @@ Run `npm start` to test the bot out!
 
 
 # FAQ
-## Music is always saying "invalid video"
-You likely need to update youtube-dl. you can do so with `node ./node_modules/youtube-dl/scripts/download.js`
-
 ## How do I make my own commands!
 There is a command folder called `ExampleCommands` you can use this to base other commands off.
 
