@@ -41,7 +41,7 @@ Run `npm start` to test the bot out!
 
 
 # FAQ
-## How do I make my own commands!
+## How do I make my own commands?
 There is a command folder called `ExampleCommands` you can use this to base other commands off.
 
 # Help
