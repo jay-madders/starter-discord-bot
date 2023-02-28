@@ -45,4 +45,4 @@ Run `npm start` to test the bot out!
 There is a command folder called `ExampleCommands` you can use this to base other commands off.
 
 # Help
-If you need help, feel free to join us on [Discord]([https://discord.gg/m29GJBN](https://discord.gg/9zBxR8m2bm)).
+If you need help, feel free to join us on [Discord]([https://discord.gg/9zBxR8m2bm](https://discord.gg/9zBxR8m2bm)).
